@@ -1,5 +1,5 @@
-#TPQCI: A Topology Potential-based Method to Quantify Functional Influence of Copy Number Variations
-
+TPQCI: A Topology Potential-based Method to Quantify Functional Influence of Copy Number Variations
+========
 Functions to calculate TPQCI by input gene level CNV, RNA-seq expression and PPI networks and detecting functional influenced modules. 
 
  If any part of this code is used in publishable works, please citing:                                                 
